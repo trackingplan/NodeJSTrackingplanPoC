@@ -1,0 +1,17 @@
+{
+    "name": "nodetrackingplanpoc",
+    "version": "0.1.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+
+    },
+    "author": "Jose Padilla",
+    "license": "Copyright",
+    "dependencies": {
+        "@analytics/segment": "^1.1.4",
+        "analytics": "^0.8.1",
+        "express": "^4.18.2",
+        "trackingplan-node-sdk": "file:trackingplan-node-sdk"
+    }
+}
